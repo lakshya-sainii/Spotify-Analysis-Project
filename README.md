@@ -132,11 +132,6 @@ Compared explicit and clean music distributions.
 * Advanced Power BI Interactions
 * Sentiment Analysis on Lyrics
 
----
-
-# 👨‍💻 Author
-
-## Lakshay Saini
 
 GitHub:
 https://github.com/lakshya-sainii
